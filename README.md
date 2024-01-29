@@ -31,12 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anujadx&show_icons=true&theme=dark&locale=en" alt="anujadx" /></p>
 
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/anujadx/anujadx/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/anujadx/anujadx/output/snake.svg" alt="Snake animation" />
-
-###
